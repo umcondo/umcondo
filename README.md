@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Umcondo's github stats](https://github-readme-stats.vercel.app/api?username=umcondo)](https://github.com/anuraghazra/github-readme-stats)
+![umcondo's github stats](https://github-readme-stats.vercel.app/api?username=umcondo&show_icons=true&theme=merko)
