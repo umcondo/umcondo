@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## langauge
-![javascript]
+[![Umcondo's github stats](https://github-readme-stats.vercel.app/api?username=umcondo)](https://github.com/anuraghazra/github-readme-stats)
