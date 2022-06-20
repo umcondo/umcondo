@@ -7,6 +7,8 @@
   
   - 📕 React Study : [Link](https://stellar-galley-7ad.notion.site/4cf5e1f6c6184596ad249f07112317f3)
 
+- Blog : [Link](https://umcondo.github.io)
+
 <!--
 **umcondo/umcondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
