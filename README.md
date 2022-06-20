@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-Notion TIL : [Link](https://stellar-galley-7ad.notion.site/TIL-62e2983c226a4c528d27092c9c654421)
-React Study : [Link](https://stellar-galley-7ad.notion.site/4cf5e1f6c6184596ad249f07112317f3)
+- 🌱 I’m currently learning JS, React.js
+
+- Notion TIL : [Link](https://stellar-galley-7ad.notion.site/TIL-62e2983c226a4c528d27092c9c654421)
+- React Study : [Link](https://stellar-galley-7ad.notion.site/4cf5e1f6c6184596ad249f07112317f3)
 <!--
 **umcondo/umcondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
