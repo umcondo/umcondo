@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning JS, React.js
   - 🗓 Notion TIL : [Link](https://stellar-galley-7ad.notion.site/TIL-62e2983c226a4c528d27092c9c654421)
   
+  - 📄 Notion TIL summary : [Link](https://stellar-galley-7ad.notion.site/TIL-e6de7b9c12ed40fa9438742a8dca9f7b)
+  
   - 📕 React Study : [Link](https://stellar-galley-7ad.notion.site/4cf5e1f6c6184596ad249f07112317f3)
 
 - Blog : [Link](https://umcondo.github.io)
