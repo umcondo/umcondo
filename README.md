@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😁 Wanna be frontend developer
+- 😁 I'm frontend developer
 
 - 🌱 I’m currently learning JS, React.js
   - 🗓 Notion TIL : [Link](https://stellar-galley-7ad.notion.site/TIL-62e2983c226a4c528d27092c9c654421)
